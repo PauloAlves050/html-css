@@ -1,0 +1,24 @@
+	Border =     
+         /* border-width: 10px;
+            border-style: solid;
+            border-color: darkslategray;*/
+
+	Padding =
+
+         /* padding-top: 10px;
+            padding-right: 10px;
+            padding-bottom: 10px;
+            padding-left: 10px; */
+
+	Margin = 
+
+         /* margin-top: 20px;
+            margin-right: 20px;
+            margin-bottom: 40px;
+            margin-left: 20px; */
+
+	outline =
+
+         /* outline-width: 5px;
+            outline-style: dashed;
+            outline-color: salmon; */
